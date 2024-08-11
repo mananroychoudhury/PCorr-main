@@ -2,12 +2,12 @@
 
 P-Corr is a scientific application designed to process data files, calculate correlation coefficients, and perform power law validation between two columns of data. This tool is particularly useful for researchers and scientists who need to analyze and interpret relationships within their datasets.
 
-Authored by [Arkaprabha Sinha Roy](https://www.linkedin.com/in/arkaprabha-sinha-roy/)
-([@ificiana](https://github.com/ificiana/)) with generous help and feedback from
-[Farhan Jawaid](https://www.linkedin.com/in/farhan-jawaid-aaa0321ab/),
+Authored by 
 [Manan Roy Choudhury](https://www.linkedin.com/in/manan-roy-choudhury-2b2093208/)
 ([view publications](https://www.researchgate.net/profile/Manan-Roy-Choudhury)),
-and [Raghunath Sinha](https://www.linkedin.com/in/raghunath-sinha-518870228);
+[Arkaprabha Sinha Roy](https://www.linkedin.com/in/arkaprabha-sinha-roy/)
+([@ificiana](https://github.com/ificiana/)), [Raghunath Sinha](https://www.linkedin.com/in/raghunath-sinha-518870228); and
+[Farhan Jawaid](https://www.linkedin.com/in/farhan-jawaid-aaa0321ab/),
 Under the guidance of [Dr. Krishan Kundu](https://www.researchgate.net/profile/Krishan-Kundu).
 
 PROJ-CS781, PROJ-CS881 :: [Department of Computer Science & Engineering](https://www.gcetts.ac.in/departments/cse) ::
