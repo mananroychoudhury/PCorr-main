@@ -1,6 +1,6 @@
 # PCorr
 
-P-Corr is a scientific application designed to process data files, calculate correlation coefficients, and perform power law validation between two columns of data simulteneously. This tool is particularly useful for researchers and scientists who need to analyze and interpret relationships within their datasets.
+P-Corr is a scientific application designed to process data files, calculate correlation coefficients, and perform power law validation between two columns of data simultaneously. This tool is particularly useful for researchers and scientists who need to analyze and interpret relationships within their datasets.
 
 Authored by 
 [Manan Roy Choudhury](https://www.linkedin.com/in/manan-roy-choudhury-2b2093208/)
